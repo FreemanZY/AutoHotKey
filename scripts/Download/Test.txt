@@ -1,0 +1,239 @@
+
+7-Zip (A) 4.65  Copyright (c) 1999-2009 Igor Pavlov  2009-02-03
+
+Processing archive: ivdf_fusebundle_nt_en.zip
+
+Error: Can not open file as archive
+
+
+7-Zip (A) 4.65  Copyright (c) 1999-2009 Igor Pavlov  2009-02-03
+
+Processing archive: ivdf_fusebundle_nt_en.zip
+
+Testing     aebb.dll
+Testing     aecore.dll
+Testing     aeemu.dll
+Testing     aegen.dll     Unsupported Method
+Testing     aehelp.dll     Unsupported Method
+Testing     aeheur.dll     Unsupported Method
+Testing     aeoffice.dll     Unsupported Method
+Testing     aepack.dll     Unsupported Method
+Testing     aerdl.dll     Unsupported Method
+Testing     aescn.dll     Unsupported Method
+Testing     aescript.dll     Unsupported Method
+Testing     aeset.dat     Unsupported Method
+Testing     aevdf.dll     Unsupported Method
+Testing     antivir0.vdf     Unsupported Method
+Testing     antivir1.vdf
+Testing     antivir2.vdf
+Testing     antivir3.vdf
+Testing     avewin32.dll
+Testing     avpack32.dll
+Testing     avrep.dll
+Testing     unacev2.dll
+
+Sub items Errors: 11
+
+
+7-Zip (A) 4.65  Copyright (c) 1999-2009 Igor Pavlov  2009-02-03
+
+Processing archive: ivdf_fusebundle_nt_en.zip
+
+Testing     aebb.dll
+Testing     aecore.dll
+Testing     aeemu.dll
+Testing     aegen.dll     Unsupported Method
+Testing     aehelp.dll     Unsupported Method
+Testing     aeheur.dll     Unsupported Method
+Testing     aeoffice.dll     Unsupported Method
+Testing     aepack.dll     Unsupported Method
+Testing     aerdl.dll     Unsupported Method
+Testing     aescn.dll     Unsupported Method
+Testing     aescript.dll     Unsupported Method
+Testing     aeset.dat     Unsupported Method
+Testing     aevdf.dll     Unsupported Method
+Testing     antivir0.vdf     Unsupported Method
+Testing     antivir1.vdf
+Testing     antivir2.vdf
+Testing     antivir3.vdf
+Testing     avewin32.dll
+Testing     avpack32.dll
+Testing     avrep.dll
+Testing     unacev2.dll
+
+Sub items Errors: 11
+
+
+7-Zip (A) 4.65  Copyright (c) 1999-2009 Igor Pavlov  2009-02-03
+
+Processing archive: ivdf_fusebundle_nt_en.zip
+
+Testing     aebb.dll
+Testing     aecore.dll
+Testing     aeemu.dll
+Testing     aegen.dll     Unsupported Method
+Testing     aehelp.dll     Unsupported Method
+Testing     aeheur.dll     Unsupported Method
+Testing     aeoffice.dll     Unsupported Method
+Testing     aepack.dll     Unsupported Method
+Testing     aerdl.dll     Unsupported Method
+Testing     aescn.dll     Unsupported Method
+Testing     aescript.dll     Unsupported Method
+Testing     aeset.dat     Unsupported Method
+Testing     aevdf.dll     Unsupported Method
+Testing     antivir0.vdf     Unsupported Method
+Testing     antivir1.vdf
+Testing     antivir2.vdf
+Testing     antivir3.vdf
+Testing     avewin32.dll
+Testing     avpack32.dll
+Testing     avrep.dll
+Testing     unacev2.dll
+
+Sub items Errors: 11
+
+
+7-Zip (A) 4.65  Copyright (c) 1999-2009 Igor Pavlov  2009-02-03
+
+Processing archive: ivdf_fusebundle_nt_en.zip
+
+Testing     aebb.dll
+Testing     aecore.dll
+Testing     aeemu.dll
+Testing     aegen.dll     Unsupported Method
+Testing     aehelp.dll     Unsupported Method
+Testing     aeheur.dll     Unsupported Method
+Testing     aeoffice.dll     Unsupported Method
+Testing     aepack.dll     Unsupported Method
+Testing     aerdl.dll     Unsupported Method
+Testing     aescn.dll     Unsupported Method
+Testing     aescript.dll     Unsupported Method
+Testing     aeset.dat     Unsupported Method
+Testing     aevdf.dll     Unsupported Method
+Testing     antivir0.vdf     Unsupported Method
+Testing     antivir1.vdf
+Testing     antivir2.vdf
+Testing     antivir3.vdf
+Testing     avewin32.dll
+Testing     avpack32.dll
+Testing     avrep.dll
+Testing     unacev2.dll
+
+Sub items Errors: 11
+
+
+7-Zip (A) 4.65  Copyright (c) 1999-2009 Igor Pavlov  2009-02-03
+
+Processing archive: ivdf_fusebundle_nt_en.zip
+
+Testing     aebb.dll
+Testing     aecore.dll
+Testing     aeemu.dll
+Testing     aegen.dll     Unsupported Method
+Testing     aehelp.dll     Unsupported Method
+Testing     aeheur.dll     Unsupported Method
+Testing     aeoffice.dll     Unsupported Method
+Testing     aepack.dll     Unsupported Method
+Testing     aerdl.dll     Unsupported Method
+Testing     aescn.dll     Unsupported Method
+Testing     aescript.dll     Unsupported Method
+Testing     aeset.dat     Unsupported Method
+Testing     aevdf.dll     Unsupported Method
+Testing     antivir0.vdf     Unsupported Method
+Testing     antivir1.vdf
+Testing     antivir2.vdf
+Testing     antivir3.vdf
+Testing     avewin32.dll
+Testing     avpack32.dll
+Testing     avrep.dll
+Testing     unacev2.dll
+
+Sub items Errors: 11
+
+
+7-Zip (A) 4.65  Copyright (c) 1999-2009 Igor Pavlov  2009-02-03
+
+Processing archive: ivdf_fusebundle_nt_en.zip
+
+Testing     aebb.dll
+Testing     aecore.dll
+Testing     aeemu.dll
+Testing     aegen.dll     Unsupported Method
+Testing     aehelp.dll     Unsupported Method
+Testing     aeheur.dll     Unsupported Method
+Testing     aeoffice.dll     Unsupported Method
+Testing     aepack.dll     Unsupported Method
+Testing     aerdl.dll     Unsupported Method
+Testing     aescn.dll     Unsupported Method
+Testing     aescript.dll     Unsupported Method
+Testing     aeset.dat     Unsupported Method
+Testing     aevdf.dll     Unsupported Method
+Testing     antivir0.vdf     Unsupported Method
+Testing     antivir1.vdf
+Testing     antivir2.vdf
+Testing     antivir3.vdf
+Testing     avewin32.dll
+Testing     avpack32.dll
+Testing     avrep.dll
+Testing     unacev2.dll
+
+Sub items Errors: 11
+
+
+7-Zip (A) 4.65  Copyright (c) 1999-2009 Igor Pavlov  2009-02-03
+
+Processing archive: ivdf_fusebundle_nt_en.zip
+
+Testing     aebb.dll
+Testing     aecore.dll
+Testing     aeemu.dll
+Testing     aegen.dll     Unsupported Method
+Testing     aehelp.dll     Unsupported Method
+Testing     aeheur.dll     Unsupported Method
+Testing     aeoffice.dll     Unsupported Method
+Testing     aepack.dll     Unsupported Method
+Testing     aerdl.dll     Unsupported Method
+Testing     aescn.dll     Unsupported Method
+Testing     aescript.dll     Unsupported Method
+Testing     aeset.dat     Unsupported Method
+Testing     aevdf.dll     Unsupported Method
+Testing     antivir0.vdf     Unsupported Method
+Testing     antivir1.vdf
+Testing     antivir2.vdf
+Testing     antivir3.vdf
+Testing     avewin32.dll
+Testing     avpack32.dll
+Testing     avrep.dll
+Testing     unacev2.dll
+
+Sub items Errors: 11
+
+
+7-Zip (A) 4.65  Copyright (c) 1999-2009 Igor Pavlov  2009-02-03
+
+Processing archive: ivdf_fusebundle_nt_en.zip
+
+Testing     aebb.dll
+Testing     aecore.dll
+Testing     aeemu.dll
+Testing     aegen.dll     Unsupported Method
+Testing     aehelp.dll     Unsupported Method
+Testing     aeheur.dll     Unsupported Method
+Testing     aeoffice.dll     Unsupported Method
+Testing     aepack.dll     Unsupported Method
+Testing     aerdl.dll     Unsupported Method
+Testing     aescn.dll     Unsupported Method
+Testing     aescript.dll     Unsupported Method
+Testing     aeset.dat     Unsupported Method
+Testing     aevdf.dll     Unsupported Method
+Testing     antivir0.vdf     Unsupported Method
+Testing     antivir1.vdf
+Testing     antivir2.vdf
+Testing     antivir3.vdf
+Testing     avewin32.dll
+Testing     avpack32.dll
+Testing     avrep.dll
+Testing     unacev2.dll
+
+Sub items Errors: 11
+

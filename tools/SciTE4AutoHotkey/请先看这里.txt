@@ -1,0 +1,16 @@
+首先要在 ahk.properties 中填上 AutoHotkey 的目录, 如
+AutoHotkeyDir=D:\Program Files\AutoHotkey
+
+
+如果想关联右键菜单的 edit script, 就在注册表 HKEY_CLASSES_ROOT\AutoHotkeyScript\Shell\Edit\Command 改
+或者用下面脚本
+http://hi.baidu.com/helfee/blog/item/ced1d2c8834a8b157f3e6f8d.html
+
+
+功能有 语法提示 着色, 自动补全, 快捷的运行(F5)/编译脚本等(具体看工具菜单), 可以把脚本导出为html, 可以代码折叠 等
+
+
+
+大概说下, F5 运行, 最常用了, 自动补全非常方便, 不用打全函数名, 输入开头几个字母回车就行了~ 有语法提示, 减少错误
+想看某函数的帮助了, 直接把光标定位与那个函数, 按 F1 就打开此函数的帮助了(如果有), 还有 ctrl+q/小键盘- 注释选中的行
+

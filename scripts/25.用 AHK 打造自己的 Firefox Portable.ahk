@@ -1,0 +1,1 @@
+run %A_ScriptDir%\firefox.exe -profile %A_ScriptDir%\Profiles
